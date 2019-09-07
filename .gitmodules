@@ -1,0 +1,3 @@
+[submodule "Server/serverWall"]
+	path = Server/serverWall
+	url = https://github.com/fryn3/serverWall
